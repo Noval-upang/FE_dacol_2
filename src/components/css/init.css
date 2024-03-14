@@ -1,0 +1,10 @@
+.form-container {
+   height: auto;
+}
+
+@media (min-height: 500px) {
+   .form-container {
+      height: 100vh;
+   }
+}
+
